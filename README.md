@@ -12,3 +12,4 @@ The task is to predict **four key repair outcomes** of CRISPR-Cas9 genome editin
 - **Fraction_Frameshifts**: Fraction of repair outcomes leading to frameshift mutations  
 
 This is a **prediction-focused problem**: the main objective is to optimize **predictive accuracy** (R², MSE) rather than explain causal biological mechanisms.
+The full report can be accessed through the "P1final.ipynb" file.
